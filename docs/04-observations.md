@@ -4,7 +4,7 @@ Evidence date: November 3, 2026, America/Bogota. Initial pilot observations belo
 
 | Observation | Status | What it establishes | Limit |
 |---|---|---|---|
-| First three makers opened Agent Builder | Observed | Makers A, B and C have authoring access | Remaining makers still need verification |
+| All five makers opened Agent Builder | Observed | All five makers have authoring access | Access was verified during this exercise; availability may vary elsewhere |
 | Helper creation success and private-state message | Created | The initial pilot exists | Later batches are recorded below; twenty recipes are not twenty deployed agents |
 | Synthetic email request returned three draft variants | Tested | Basic response generation works | It returned more alternatives than requested |
 | Four search sources disabled before creation | Observed | Saved authoring configuration | No exhaustive isolation test |
@@ -64,4 +64,30 @@ Nova 2 was tested with synthetic meeting notes. The response labeled the minutes
 
 *Actual lab response, November 3, 2026. The image captures part of the response; the observations summarize the inspected full response. Unrelated chat history is hidden.*
 
-Asistente, Proyecto X and Ideas have creation verified, with response tests pending. Administrative discovery of all four remains pending. The current inventory records twelve created agents: six tested and six with creation verified only. Eight recipes remain prepared.
+Asistente, Proyecto X and Ideas have creation verified, with response tests pending. Administrative discovery of all four remains pending. At the end of this batch, twelve agents had been created and six basic response tests completed.
+
+
+## Maker D batch
+
+Helper 2, Resumen, Helper Pro and Pilot-2 were created privately by the fourth maker. Name, description and instructions were checked before creation, with all four search sources disabled, connectors off, and no skills or attachments added.
+
+Helper Pro was tested with synthetic unstructured text. It returned a draft with a title, objective, activities, monthly follow-up and explicit ambiguities. This was structured content to copy into Word; no existing Word file was edited. Its objective paraphrased the supplied activities, so human review remains necessary.
+
+![Helper Pro structures synthetic document text](../images/helper-pro-document-test.png)
+
+*Actual lab response, November 3, 2026. The image captures the upper portion of the response; observations summarize the inspected full response. Unrelated chat history is hidden.*
+
+The other three agents have response tests pending. Administrative discovery of this batch is pending. At the end of this batch, sixteen agents had been created and seven basic response tests completed.
+
+
+## Maker E batch and completed creation
+
+Express, Copi, Docs and Apoyo were created privately by the fifth maker. Creation success and the creator shown in each chat were checked. Each recipe had its name, description and instructions verified, all four search sources disabled, connectors off, and no added skills or attachments.
+
+Apoyo completed a narrow text-only test asking for five numbered titles with one brief point each. It returned five items, labeled the result as a draft for human review, preserved the supplied count of five makers and twenty created lab agents, and highlighted missing purpose, owner and source details. It also expanded purpose registration to creators as well as agents, which was not requested; a basic test does not establish perfect adherence. No presentation file was generated or edited.
+
+![Apoyo returns a short presentation outline](../images/apoyo-outline-test.png)
+
+*Actual synthetic lab response, November 3, 2026. Unrelated chat history is hidden.*
+
+Creation is complete: twenty private agents across five makers. Eight have basic response tests recorded and twelve have creation verified only. No recipes remain merely prepared. Administrative discovery of later batches, broader quality testing and effective control enforcement remain pending.
