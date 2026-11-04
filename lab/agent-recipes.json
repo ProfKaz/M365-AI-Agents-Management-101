@@ -90,7 +90,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Tested"
     },
     {
       "lab_id": "B-2",
@@ -108,7 +108,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "B-3",
@@ -126,7 +126,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "B-4",
@@ -144,7 +144,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "C-1",
@@ -162,7 +162,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "C-2",
@@ -180,7 +180,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Tested"
     },
     {
       "lab_id": "C-3",
@@ -198,7 +198,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "C-4",
@@ -216,7 +216,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "D-1",
@@ -234,7 +234,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "D-2",
@@ -252,7 +252,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "D-3",
@@ -270,7 +270,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Tested"
     },
     {
       "lab_id": "D-4",
@@ -288,7 +288,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "E-1",
@@ -306,7 +306,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "E-2",
@@ -324,7 +324,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "E-3",
@@ -342,7 +342,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "E-4",
@@ -360,7 +360,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Tested"
     }
   ]
 }

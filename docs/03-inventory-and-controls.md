@@ -4,7 +4,7 @@
 
 1. Sign in to the Microsoft 365 admin center with the authorized administrator. Confirm the account and tenant.
 2. Open **Agents / All agents / Registry**.
-3. Locate the lab agent. Match its identifier and creator with the maker record. Search names as a convenience, not as a unique key.
+3. Filter **Platform** to **Agent Builder in Microsoft 365 Copilot** to inspect this lab's twenty-item view. A platform filter is not a permanent lab boundary; other agents could use that platform later. Locate the lab agent. Match its identifier and creator with the maker record. Search names as a convenience, not as a unique key.
 4. Inspect **Details**, **Users**, and **Data & tools**. Record the displayed owner count, creator, platform, status, instructions, sharing, configured knowledge, and tools.
 5. Compare those fields with the intended recipe. Separate native capabilities from configured tools.
 6. Record which administrative actions are visible, which are enabled, and which you actually execute.
@@ -33,3 +33,7 @@ In our initial inspection, we opened and cancelled the block dialog. We did not 
 
 Do not infer universal control coverage from this one Agent Builder agent. Do not enable a trial, billing policy, or additional platform connection merely because a prompt offers it.
 
+
+## Export scope matters
+
+The observed Export dialog defaults to **All agents**, which ignores filters. Choose **Current filtered view** when that is the intended scope, and verify the displayed count before exporting. Confirm the downloaded file and inspect its contents before treating it as inventory evidence. Our filtered export was initiated, but its download was not confirmed.
