@@ -4,8 +4,8 @@ Evidence date: November 3, 2026, America/Bogota. Initial pilot observations belo
 
 | Observation | Status | What it establishes | Limit |
 |---|---|---|---|
-| Alexander opened Agent Builder | Observed | Pilot maker has authoring access | Other makers still need verification |
-| Helper creation success and private-state message | Created | One real lab agent exists | Twenty recipes are not twenty deployed agents |
+| First two makers opened Agent Builder | Observed | Maker A and Maker B have authoring access | Remaining makers still need verification |
+| Helper creation success and private-state message | Created | The initial pilot exists | Later batches are recorded below; twenty recipes are not twenty deployed agents |
 | Synthetic email request returned three draft variants | Tested | Basic response generation works | It returned more alternatives than requested |
 | Four search sources disabled before creation | Observed | Saved authoring configuration | No exhaustive isolation test |
 | Helper visible in administrative Registry | Observed | This private agent is administratively discoverable | No claim of universal discovery |
@@ -35,8 +35,20 @@ Format was created privately and tested with an unstructured synthetic sentence.
 
 Both agents had the four search sources disabled before creation, with no skills, attachments or connectors added. These are basic functional tests, not exhaustive quality or access-isolation evaluations. Administrative discovery of these later agents remains pending.
 
-Slides was also created privately with the same restricted source configuration. Its first request for five slides entered an extended generation, with the interface reporting image and code activity. Requesting a quick answer did not immediately finish it. We stopped that response and submitted a narrower request: text in the chat only, five numbered titles, no files, images or code. The second response returned five titles and preserved the planned status of the twenty agents. This is a completed basic test with an initial failure to stay within the intended simple interaction, not evidence of perfect instruction adherence. The other sixteen recipes have not been created.
+Slides was also created privately with the same restricted source configuration. Its first request for five slides entered an extended generation, with the interface reporting image and code activity. Requesting a quick answer did not immediately finish it. We stopped that response and submitted a narrower request: text in the chat only, five numbered titles, no files, images or code. The second response returned five titles and preserved the planned status of the twenty agents. This is a completed basic test with an initial failure to stay within the intended simple interaction, not evidence of perfect instruction adherence.
 
 ![Format returns structured text and highlights ambiguity](../images/format-text-test.png)
 
 *Actual synthetic test response, November 3, 2026. The unrelated chat history is hidden. The image captures part of the response; the observations above summarize the inspected full response.*
+
+## Maker B batch
+
+Nova, Meeting, Pilot and Atlas 2 were created privately by the second maker. Before creation, each had its name, description and family instructions checked, all four search sources off, and no added skills, attachments or connectors. Creation confirmations stated that each agent was private.
+
+Nova was tested with a synthetic email request similar to Helper's, using the second maker's signature. It returned a draft for human review with a subject, Laura as recipient, the supplied deadline and Diego as signatory. No email was sent. These are distinct agent records with overlapping jobs, providing a real example of functional duplication.
+
+![Nova produces a synthetic email draft](../images/nova-email-test.png)
+
+*Actual lab response, November 3, 2026. Different name and creator, similar purpose to Helper. Unrelated chat history is hidden.*
+
+Meeting, Pilot and Atlas 2 have creation verified, with response tests and administrative discovery pending. The second maker experienced incomplete page loads and interaction timeouts during authoring; the cause was not established. The inventory reflects eight created agents, five basic response tests completed and twelve recipes still prepared.
