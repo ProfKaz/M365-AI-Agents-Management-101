@@ -1,0 +1,2 @@
+agent_reference,purpose,business_owner,technical_owner,data_sources,actions,audience,evidence,decision,reason,next_review,status
+example-01,Email draft,To assign,Maker A,Conversation text,Draft only,Private,Pilot response and admin record,Retain and review,Small scoped learning example,To schedule,Exercise
