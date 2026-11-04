@@ -4,7 +4,7 @@ Evidence date: November 3, 2026, America/Bogota. Initial pilot observations belo
 
 | Observation | Status | What it establishes | Limit |
 |---|---|---|---|
-| First two makers opened Agent Builder | Observed | Maker A and Maker B have authoring access | Remaining makers still need verification |
+| First three makers opened Agent Builder | Observed | Makers A, B and C have authoring access | Remaining makers still need verification |
 | Helper creation success and private-state message | Created | The initial pilot exists | Later batches are recorded below; twenty recipes are not twenty deployed agents |
 | Synthetic email request returned three draft variants | Tested | Basic response generation works | It returned more alternatives than requested |
 | Four search sources disabled before creation | Observed | Saved authoring configuration | No exhaustive isolation test |
@@ -51,4 +51,17 @@ Nova was tested with a synthetic email request similar to Helper's, using the se
 
 *Actual lab response, November 3, 2026. Different name and creator, similar purpose to Helper. Unrelated chat history is hidden.*
 
-Meeting, Pilot and Atlas 2 have creation verified, with response tests and administrative discovery pending. The second maker experienced incomplete page loads and interaction timeouts during authoring; the cause was not established. The inventory reflects eight created agents, five basic response tests completed and twelve recipes still prepared.
+Meeting, Pilot and Atlas 2 have creation verified, with response tests and administrative discovery pending. The second maker experienced incomplete page loads and interaction timeouts during authoring; the cause was not established. At the end of this batch, eight agents had been created and five basic response tests completed.
+
+
+## Maker C batch
+
+Asistente, Nova 2, Proyecto X and Ideas were created privately by the third maker. Each creation was confirmed, with the name, description and family instructions checked, all four search sources off, and no skills, attachments or connectors added.
+
+Nova 2 was tested with synthetic meeting notes. The response labeled the minutes as a draft for human review, recorded the agreed decision to document agent purposes, kept the proposed retirement of duplicates pending, and marked the date for Priya's action as unconfirmed rather than inventing one.
+
+![Nova 2 prepares minutes from synthetic notes](../images/nova2-minutes-test.png)
+
+*Actual lab response, November 3, 2026. The image captures part of the response; the observations summarize the inspected full response. Unrelated chat history is hidden.*
+
+Asistente, Proyecto X and Ideas have creation verified, with response tests pending. Administrative discovery of all four remains pending. The current inventory records twelve created agents: six tested and six with creation verified only. Eight recipes remain prepared.

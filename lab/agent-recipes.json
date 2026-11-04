@@ -162,7 +162,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "C-2",
@@ -180,7 +180,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Tested"
     },
     {
       "lab_id": "C-3",
@@ -198,7 +198,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "C-4",
@@ -216,7 +216,7 @@
         "web_search": false
       },
       "sharing": "Private",
-      "status": "Prepared"
+      "status": "Created"
     },
     {
       "lab_id": "D-1",
