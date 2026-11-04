@@ -91,3 +91,16 @@ Apoyo completed a narrow text-only test asking for five numbered titles with one
 *Actual synthetic lab response, November 3, 2026. Unrelated chat history is hidden.*
 
 Creation is complete: twenty private agents across five makers. Eight have basic response tests recorded and twelve have creation verified only. No recipes remain merely prepared. Administrative discovery of later batches, broader quality testing and effective control enforcement remain pending.
+
+
+## Administrative follow-up after creation
+
+The Registry later displayed 419 total elements. Filtering Platform to Agent Builder in Microsoft 365 Copilot returned **20 items** with all twenty planned lab names. Rows showed Available and Not shared. This establishes list-level discovery by name in this tenant and view. Helper and Apoyo were also matched by their underlying agent identifiers; matching every other detail record by ID remains pending.
+
+![Registry filtered to twenty Agent Builder items](../images/registry-agent-builder-20.png)
+
+*Actual administrative view, November 3, 2026. The 419 total includes other tenant entries; the platform-filtered view reports twenty items. The screenshot shows the count and part of the list; all twenty names were inspected in the interface.*
+
+Apoyo's detail view reported Priya as publisher and creator, and its agent ID matched the creation record. The list continued to show zero usage and Never even after our successful test, with the collection warning still present. These fields are not proof of no use. The increase from the earlier total of 311 cannot be attributed solely to this lab.
+
+The export dialog offered All agents (419, ignores filters) and Current filtered view (20). We selected the filtered view and initiated export, but the download was not confirmed. No exported file is claimed as evidence. Control enforcement remains pending; no blocking, deletion or ownership change was executed.
