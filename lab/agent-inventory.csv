@@ -2,7 +2,7 @@ lab_id,maker,name,family,status,sharing,admin_discovery,control_enforcement,next
 "A-1","Maker A","Helper","email","Tested","Private","Observed","Pending","To schedule"
 "A-2","Maker A","Atlas","minutes","Tested","Private","Pending","Pending","To schedule"
 "A-3","Maker A","Format","document","Tested","Private","Pending","Pending","To schedule"
-"A-4","Maker A","Slides","presentation","Created","Private","Pending","Pending","To schedule"
+"A-4","Maker A","Slides","presentation","Tested","Private","Pending","Pending","To schedule"
 "B-1","Maker B","Nova","email","Prepared","Planned private","Pending","Pending","To schedule"
 "B-2","Maker B","Meeting","minutes","Prepared","Planned private","Pending","Pending","To schedule"
 "B-3","Maker B","Pilot","document","Prepared","Planned private","Pending","Pending","To schedule"

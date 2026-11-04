@@ -21,7 +21,7 @@ Use the [agent recipes](lab/agent-recipes.json), [inventory](lab/agent-inventory
 
 Evidence date: **November 3, 2026**, America/Bogota. This is a controlled educational exercise using synthetic content. Read the observation log for the exact completed work. Planned recipes do not imply deployed agents.
 
-Current batch: four private agents created by Maker A. Helper, Atlas and Format have completed basic response tests. Slides has a submitted test whose result is pending review. The remaining sixteen recipes are prepared.
+Current batch: four private agents created by Maker A and tested with synthetic inputs. Slides required a narrower text-only prompt after an extensive generation was stopped. The remaining sixteen recipes are prepared. Read the observations before interpreting these tests as quality or enforcement guarantees.
 
 | Label | Meaning |
 |---|---|

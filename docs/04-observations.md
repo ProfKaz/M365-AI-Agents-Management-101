@@ -35,7 +35,7 @@ Format was created privately and tested with an unstructured synthetic sentence.
 
 Both agents had the four search sources disabled before creation, with no skills, attachments or connectors added. These are basic functional tests, not exhaustive quality or access-isolation evaluations. Administrative discovery of these later agents remains pending.
 
-Slides was also created privately with the same restricted source configuration. Its five-slide-outline test has been submitted. At this snapshot, the response is still pending review. The other sixteen recipes have not been created.
+Slides was also created privately with the same restricted source configuration. Its first request for five slides entered an extended generation, with the interface reporting image and code activity. Requesting a quick answer did not immediately finish it. We stopped that response and submitted a narrower request: text in the chat only, five numbered titles, no files, images or code. The second response returned five titles and preserved the planned status of the twenty agents. This is a completed basic test with an initial failure to stay within the intended simple interaction, not evidence of perfect instruction adherence. The other sixteen recipes have not been created.
 
 ![Format returns structured text and highlights ambiguity](../images/format-text-test.png)
 
